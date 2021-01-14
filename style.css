@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+h1 {
+	margin-top: 150px;
+	font-size: 100px;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
+	font-family: 'Press Start 2P', cursive;
+	color: #DAA520;
+}
+
+
+
+body
+{
+	background-size: 100%;
+	background-color: #008000;
+	background-repeat: no-repeat;
+}
+
+
+#h11
+{
+	margin-top: 200px;
+	font-size: 100px   ;
+	font-family: arial;
+	font-style: bold;
+	color: white;
+
+}
+#b1
+{
+	font-size: 30px;
+	background-color: #8B4513;
+	color: #DAA520;
+	font-family: 'Press Start 2P';
+	padding-top: 12px;
+	cursor: pointer;
+	text-shadow: -1px -1px black,1px 1px white;
+	box-shadow: 0 0.2em grey;
+	border-radius: 7px;
+
+}
